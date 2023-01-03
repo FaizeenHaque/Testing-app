@@ -1,0 +1,6 @@
+﻿  LoginPage.cpp
+  main.cpp
+E:\C++\LoginScreen\LoginScreen\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  LoginPage.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LoginScreen.vcxproj -> E:\C++\LoginScreen\LoginScreen\Debug\LoginScreen.exe

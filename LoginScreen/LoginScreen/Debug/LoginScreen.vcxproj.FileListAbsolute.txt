@@ -1,0 +1,4 @@
+E:\C++\LoginScreen\LoginScreen\Debug\LoginScreen.vcxproj.AssemblyReference.cache
+E:\C++\LoginScreen\LoginScreen\Debug\LoginScreen.vcxproj.GenerateResource.cache
+E:\C++\LoginScreen\LoginScreen\Debug\LoginScreen.exe
+E:\C++\LoginScreen\LoginScreen\Debug\LoginScreen.LoginPage.resources
